@@ -1,2 +1,2 @@
-# Pogodoved-myLittleProject for Lab-work on TUSUR
+# Pogodoved-myLittleProject for Lab-work in TUSUR
 ![](startWindow.png)
